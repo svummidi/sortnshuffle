@@ -1,0 +1,15 @@
+{
+  "name": "sort-suffle",
+  "version": "1.0.0",
+  "description": "MAERSK UI Engineer Coding Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server webapp -o"
+  },
+  "author": "Srinivasa Rao Vummidi(Srinivasa.r.v@outlook.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}

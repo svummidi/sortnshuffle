@@ -1,0 +1,16 @@
+{
+  "name": "Sort and Shuffle",
+  "short_name": "shortShuffle",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "./images/favicon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}
